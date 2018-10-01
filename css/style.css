@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: #d2d2d2;
+}
+
+main {
+  margin:auto;
+}
+
+.imgSize {
+  width: 15%
+}
+
+.quotesList {
+ width: 800px;
+}
+
+.navbarRed {
+  background-color: #b10000;
+}
+
+.swal-button {
+  padding: 7px 19px;
+  border-radius: 2px;
+  background-color: #b10000;
+  font-size: 12px;
+}
